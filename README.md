@@ -4,7 +4,7 @@
 
 Estudante de Sistemas de Informação e em transição para a área de tecnologia. Atualmente me especializando em Desenvolvimento Web com foco em HTML, CSS e JavaScript pelo curso da OneBitCode.
 
-Busco minha primeira oportunidade como Desenvolvedor Front-End Júnior, onde eu possa aplicar meus conhecimentos, crescer profissionalmente e contribuir com soluções criativas.
+Busco minha primeira oportunidade como Desenvolvedor Júnior, onde eu possa aplicar meus conhecimentos, crescer profissionalmente e contribuir com soluções criativas.
 
 Tenho perfil proativo, facilidade em aprender novas tecnologias, boa comunicação e experiência com trabalho em equipe. Aberto a vagas de estágio ou júnior na área de programação, tecnologia ou desenvolvimento web.
 
