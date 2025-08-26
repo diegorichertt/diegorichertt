@@ -1,6 +1,6 @@
 # 👨‍💻 Diego Richertt
 
-**`Desenvolvedor Front-End Júnior`**
+**`Desenvolvedor Júnior`**
 
 Estudante de Sistemas de Informação e em transição para a área de tecnologia. Atualmente me especializando em Desenvolvimento Web com foco em HTML, CSS e JavaScript pelo curso da OneBitCode.
 
